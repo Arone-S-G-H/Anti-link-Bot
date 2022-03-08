@@ -1,3 +1,4 @@
+# programmer = Arone Sadegh
 from telegram import Update,ParseMode,MessageEntity
 from telegram.ext import Updater,CallbackContext,CommandHandler,MessageHandler,Filters
 
